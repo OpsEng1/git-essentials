@@ -1,1 +1,1 @@
-This should only appear in the new branch
+This should only appear in  both new branch and main
